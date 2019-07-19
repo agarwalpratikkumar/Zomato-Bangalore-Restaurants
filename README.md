@@ -16,8 +16,7 @@ In order to open '.ipynb' file follow below step:
 4. All my work should visible now.
 
 
-Now, If you want to run the code by yourself. First you have to upload the dataset. (It will be done in seconds.)
-
+Now, If you want to run the code by yourself. First you have to upload the dataset. 
 Steps to upload the dataset :
 
 1. Open the left Pane. (You will see '>' sign at the corner beside the import statements)
