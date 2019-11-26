@@ -4,7 +4,6 @@ https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
 
 This dataset is taken from kaggle.
 Performed Exploratory Data Analysis (EDA) and did data visualization using matplotlib, seaborn and analyzed which locality has large number of restaurants and what are their specialities. Found the restaurants which are cheap with high votes and high ratings and restaurants which are expensive.
-Went through different kernels in order to understand and perform the task well.
 
 
 ```
